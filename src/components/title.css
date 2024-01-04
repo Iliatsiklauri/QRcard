@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Karla:ital@0;1&family=Kumbh+Sans&family=Montserrat&family=Outfit&family=Poppins&family=Red+Hat+Text&family=Space+Mono&display=swap');
+h1 {
+  color: var(--Dark-Navy, #1f314f);
+  text-align: center;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-family: Outfit;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 288px;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}

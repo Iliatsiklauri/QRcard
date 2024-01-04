@@ -1,0 +1,12 @@
+.imag {
+  width: 288px;
+  height: 288px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  position: relative;
+}
+img[src='/qr-codeqrcode.svg'] {
+  position: absolute;
+  top: 23%;
+  left: 23%;
+}
